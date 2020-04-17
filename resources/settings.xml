@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting id="user" type="text" label="30102" default=""/>
+	<setting id="pass" type="text" label="30103" default="" option="hidden" />
+	<setting id="quality" type="select" label="30112" default="Inputstream" values="Inputstream" />
+	<!--<setting id="quality" type="select" label="30112" default="6" values="Inputstream|1920X1080(low)|1280X720|1024X576|856X450|640X360|Select" />-->
+	<!--<setting id="extendinfo" type="bool" label="Show Extended Info" default="false"/>-->
+</settings>
